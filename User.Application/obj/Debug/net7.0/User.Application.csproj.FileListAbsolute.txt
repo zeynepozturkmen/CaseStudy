@@ -1,0 +1,11 @@
+/Users/zeynep.ozturkmen/RiderProjects/CaseStudy/User.Application/bin/Debug/net7.0/User.Application.deps.json
+/Users/zeynep.ozturkmen/RiderProjects/CaseStudy/User.Application/bin/Debug/net7.0/User.Application.dll
+/Users/zeynep.ozturkmen/RiderProjects/CaseStudy/User.Application/bin/Debug/net7.0/User.Application.pdb
+/Users/zeynep.ozturkmen/RiderProjects/CaseStudy/User.Application/obj/Debug/net7.0/User.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynep.ozturkmen/RiderProjects/CaseStudy/User.Application/obj/Debug/net7.0/User.Application.AssemblyInfoInputs.cache
+/Users/zeynep.ozturkmen/RiderProjects/CaseStudy/User.Application/obj/Debug/net7.0/User.Application.AssemblyInfo.cs
+/Users/zeynep.ozturkmen/RiderProjects/CaseStudy/User.Application/obj/Debug/net7.0/User.Application.csproj.CoreCompileInputs.cache
+/Users/zeynep.ozturkmen/RiderProjects/CaseStudy/User.Application/obj/Debug/net7.0/User.Application.dll
+/Users/zeynep.ozturkmen/RiderProjects/CaseStudy/User.Application/obj/Debug/net7.0/refint/User.Application.dll
+/Users/zeynep.ozturkmen/RiderProjects/CaseStudy/User.Application/obj/Debug/net7.0/User.Application.pdb
+/Users/zeynep.ozturkmen/RiderProjects/CaseStudy/User.Application/obj/Debug/net7.0/ref/User.Application.dll

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "WxhID0Ampi7NxdVV2ClbYDlBxQEpIwwAFyUfwChS+dRFiOc8Uj+S8mlKmvKsYK5qWbkeVAus+1Ua4obidiFBxQ==",
+  "success": true,
+  "projectFilePath": "/Users/zeynep.ozturkmen/RiderProjects/CaseStudy/User.Infrastructure/User.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/zeynep.ozturkmen/.nuget/packages/microsoft.entityframeworkcore/7.0.20/microsoft.entityframeworkcore.7.0.20.nupkg.sha512",
+    "/Users/zeynep.ozturkmen/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.20/microsoft.entityframeworkcore.abstractions.7.0.20.nupkg.sha512",
+    "/Users/zeynep.ozturkmen/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.20/microsoft.entityframeworkcore.analyzers.7.0.20.nupkg.sha512",
+    "/Users/zeynep.ozturkmen/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/zeynep.ozturkmen/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/zeynep.ozturkmen/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/zeynep.ozturkmen/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/zeynep.ozturkmen/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/zeynep.ozturkmen/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/zeynep.ozturkmen/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/zeynep.ozturkmen/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
